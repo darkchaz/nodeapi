@@ -1,0 +1,30 @@
+{
+"configurations":[
+	{"name":"host1","hostname":"nessus-ntp.lab.com","port":1241,"username":"toto"},
+	{"name":"host2","hostname":"nessus-ntp.lab.com","port":1241,"username":"toto"},
+	{"name":"host3","hostname":"nessus-xml.lab.com","port":3384,"username":"admin"},
+	{"name":"host4","hostname":"google.com","port":3384,"username":"cedric"},
+	{"name":"host5","hostname":"yahoo.com","port":8699,"username":"erik"},
+	{"name":"host6","hostname":"facebook.com","port":8699,"username":"garatte"},
+	{"name":"host7","hostname":"linkedin.com","port":4049,"username":"toby"},
+	{"name":"host8","hostname":"wikipedia.org","port":4049,"username":"austin"},
+	{"name":"host9","hostname":"amazon.com","port":4049,"username":"ashley"},
+	{"name":"host10","hostname":"twitter.com","port":6907,"username":"chaz"},
+	{"name":"host11","hostname":"instagram.com","port":6907,"username":"kelsey"},
+	{"name":"host12","hostname":"reddit.com","port":6907,"username":"michael"},
+	{"name":"host13","hostname":"pinterest.com","port":6907,"username":"zack"},
+	{"name":"host14","hostname":"paypal.com","port":7276,"username":"seth"},
+	{"name":"host15","hostname":"stackoverflow.com","port":7276,"username":"issac"},
+	{"name":"host16","hostname":"github.com","port":7276,"username":"harvey"},
+	{"name":"host17","hostname":"apple.com","port":7276,"username":"colin"},
+	{"name":"host18","hostname":"cnn.com","port":7276,"username":"stryker"},
+	{"name":"host19","hostname":"twitch.tv","port":7276,"username":"justin"},
+	{"name":"host20","hostname":"soundcloud.com","port":2853,"username":"sarah"}
+],
+"users":[
+	{
+	"username": "admin",
+	"password": "363336383631376131323334356368617a5932686865673d3d",
+	"token": "eyJhbGciOiJURU5BQkxFIiwidHlwIjoiSldUIn0=.eyJ1c2VybmFtZSI6ImFkbWluIiwiZXhwaXJlIjoiMjAxNi0wOC0yN1QwMDoxMToyOS45NzBaIn0=.IjM2MzMzNjM4MzYzMTM3NjE2NTc5NGE2ODYyNDc2MzY5NGY2OTRhNTU1MjU1MzU0MjUxNmI3ODQ2NDk2OTc3Njk2NDQ4NmM3NzQ5NmE2ZjY5NTM2YzY0NTU0OTZlMzAzZDJlNjU3OTRhMzE2MzMyNTY3OTYyNmQ0Njc0NWE1MzQ5MzY0OTZkNDY2YjYyNTc2Yzc1NDk2OTc3Njk1YTU4Njg3NzYxNTg0YTZjNDk2YTZmNjk0ZDZhNDE3ODRlNjkzMDc3NGY0MzMwNzk0ZTMxNTE3NzRkNDQ2Zjc4NGQ1NDZmNzk0ZjUzMzQzNTRlN2E0MjYxNDk2ZTMwM2Q2MzY4NjE3YTU5MzI2ODY4NjU2NzNkM2Qi"
+	}]
+}
